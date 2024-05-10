@@ -287,20 +287,6 @@
 						</array>
 					</array>
 				</array>
-				<array>
-					<array>
-						<array>
-							<dict>
-								<key>NodeID</key>
-								<integer>30</integer>
-							</dict>
-							<dict>
-								<key>NodeID</key>
-								<integer>6</integer>
-							</dict>
-						</array>
-					</array>
-				</array>
 			</array>
 			<key>PathMapID</key>
 			<integer>29</integer>
