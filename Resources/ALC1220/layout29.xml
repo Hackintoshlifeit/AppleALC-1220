@@ -451,23 +451,19 @@
 									<integer>0</integer>
 									<key>SourcePortIndex</key>
 									<integer>1</integer>
-								</dict>
-							</dict>
-						</dict>
-					</dict>
-				</dict>
-			</dict>
-			<key>Outputs</key>
-			<array>
-				<string>Headphone</string>
-				<string>IntSpeaker</string>
-				<string>LineOut</string>
-				<string>SPDIFOut</string>
-			</array>
-			<key>PathMapID</key>
-			<integer>29</integer>
-			<key>SPDIFOut</key>
-			<dict/>
-		</dict>
-	</array>
+                                </dict>
+                            </dict>
+                        </dict>
+                    </dict>
+                </dict>
+            </dict>
+            <key>Outputs</key>
+            <array>
+                <string>IntSpeaker</string>
+                <string>Headphone</string>
+            </array>
+            <key>PathMapID</key>
+            <integer>29</integer>
+        </dict>
+    </array>
 </dict>
