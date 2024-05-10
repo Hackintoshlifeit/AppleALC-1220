@@ -28,21 +28,21 @@
 			<string>as.vit9696.AppleALC</string>
 			<key>HDAConfigDefault</key>
 			<array>
-			        <dict>
+				<dict>
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>CodecID</key>
 					<integer>283906592</integer>
 					<key>CodecName</key>
-					<string>MacPeet- ALC1220 for Z390 Aorus Ultra - Output SP/HP SwitchMode</string>
+					<string>Lorys89 ALC1220 for AMD B450/B550 - SwitchMode</string>
 					<key>ConfigData</key>
-					<data>AUccEAFHHUABRx4RAUcfkAFHDAIBVxwgAVcdEAFXHgEBVx8BAWccMAFnHWABZx4BAWcfAQF3HPABdx0AAXceAAF3H0ABhxxAAYcdkAGHHqABhx+QAZccYAGXHZABlx6BAZcfAgGnHFABpx0wAacegQGnHwEBtxxwAbcdQAG3HiEBtx8CAbcMAgHnHJAB5x1hAeceSwHnHwE=</data>
+					<data>AUccEAFHHUABRx4RAUcfkAFHDAIBpxwgAacdMAGnHoEBpx8BAYccQAGHHZABhx6gAYcfkAGXHGABlx2QAZcegQGXHwIBtxxwAbcdQAG3HiEBtx8CAbcMAg==</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>29</integer>
 					<key>WakeConfigData</key>
-					<data>AUcMAg==</data>
+					<data>AUcMAgG3DAI=</data>
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
