@@ -20,10 +20,8 @@
 			<key>LineIn</key>
 			<dict>
 				<key>MuteGPIO</key>
-				<integer>1342242841</integer>
+				<integer>1342242842</integer>
 			</dict>
-			<key>LineOut</key>
-			<dict/>
 			<key>Mic</key>
 			<dict>
 				<key>MuteGPIO</key>
@@ -451,19 +449,19 @@
 									<integer>0</integer>
 									<key>SourcePortIndex</key>
 									<integer>1</integer>
-                                </dict>
-                            </dict>
-                        </dict>
-                    </dict>
-                </dict>
-            </dict>
-            <key>Outputs</key>
-            <array>
-                <string>IntSpeaker</string>
-                <string>Headphone</string>
-            </array>
-            <key>PathMapID</key>
-            <integer>29</integer>
-        </dict>
-    </array>
+								</dict>
+							</dict>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+			<key>Outputs</key>
+			<array>
+				<string>IntSpeaker</string>
+				<string>Headphone</string>
+			</array>
+			<key>PathMapID</key>
+			<integer>29</integer>
+		</dict>
+	</array>
 </dict>
