@@ -14,10 +14,16 @@
 			<array>
 				<string>Mic</string>
 				<string>LineIn</string>
+				<string>LineIn-Rear</string>
 			</array>
 			<key>IntSpeaker</key>
 			<dict/>
 			<key>LineIn</key>
+			<dict>
+				<key>MuteGPIO</key>
+				<integer>1342242841</integer>
+			</dict>
+			<key>LineIn-Rear</key>
 			<dict>
 				<key>MuteGPIO</key>
 				<integer>1342242842</integer>
