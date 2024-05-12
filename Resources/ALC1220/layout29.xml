@@ -20,7 +20,7 @@
 			<key>LineIn</key>
 			<dict>
 				<key>MuteGPIO</key>
-				<integer>1342242841</integer>
+				<string>1342242841 1342242842</string>
 			</dict>
 			<key>Mic</key>
 			<dict>
