@@ -14,22 +14,22 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>MacPeet- ALC1220 for Z390 Aorus Ultra - Output SP/HP SwitchMode</string>
+				<string>Lorys89 ALC1220 for AMD B450/B550 - SwitchMode</string>
 				<key>Id</key>
-				<integer>29</integer>
+				<integer>69</integer>
 				<key>Path</key>
-				<string>layout29.xml.zlib</string>
+				<string>layout69.xml.zlib</string>
 			</dict>
 		</array>
 		<key>Platforms</key>
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>MacPeet- ALC1220 for Z390 Aorus Ultra - Output SP/HP SwitchMode</string>
+				<string>Lorys89 ALC1220 for AMD B450/B550 - SwitchMode</string>
 				<key>Id</key>
-				<integer>29</integer>
+				<integer>69</integer>
 				<key>Path</key>
-				<string>Platforms29.xml.zlib</string>
+				<string>Platforms69.xml.zlib</string>
 			</dict>
 		</array>
 	</dict>
