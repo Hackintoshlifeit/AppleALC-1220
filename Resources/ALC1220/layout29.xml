@@ -20,7 +20,9 @@
 			<key>LineIn</key>
 			<dict>
 				<key>MuteGPIO</key>
-				<string>1342242841 1342242842</string>
+				<data>
+				MgEAGTIBABo=
+				</data>
 			</dict>
 			<key>Mic</key>
 			<dict>
