@@ -17,9 +17,9 @@
 	<key>PathMaps</key>
 	<array>
 		<dict>
-            <key>Comment</key>
-            <string>Lorys89 ALC1220 for AMD B450/B550 - SwitchMode</string>
-            <key>PathMap</key>
+			<key>Comment</key>
+			<string>Lorys89 ALC1220 for AMD B450/B550 - SwitchMode</string>
+			<key>PathMap</key>
 			<array>
 				<array>
 					<array>
@@ -60,12 +60,14 @@
 							</dict>
 							<dict>
 								<key>Boost</key>
-								<integer>3</integer>
+								<integer>1</integer>
 								<key>NodeID</key>
 								<integer>24</integer>
 							</dict>
 						</array>
 					</array>
+				</array>
+				<array>
 					<array>
 						<array>
 							<dict>
